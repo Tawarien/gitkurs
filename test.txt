@@ -1,1 +1,7 @@
 Hier ist ein Text!
+
+Hier gibt es eine erste Änderung im neuen Branch!
+
+Eine weiter Zeile wird hinzugefügt...
+
+So, dritter, damit ist auch erst mal genug würde ich sagen.
